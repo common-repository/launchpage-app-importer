@@ -1,0 +1,14 @@
+#launch-page-importer-form {
+  label, input, select {
+    display: block;
+    width: 550px;
+  }
+
+  input, select {
+    margin-bottom: 15px;
+  }
+
+  input[type=submit] {
+    width: 200px;
+  }
+}

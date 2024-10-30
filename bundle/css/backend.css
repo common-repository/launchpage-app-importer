@@ -1,0 +1,9 @@
+#launch-page-importer-form label, #launch-page-importer-form input, #launch-page-importer-form select {
+  display: block;
+  width: 550px; }
+#launch-page-importer-form input, #launch-page-importer-form select {
+  margin-bottom: 15px; }
+#launch-page-importer-form input[type=submit] {
+  width: 200px; }
+
+/*# sourceMappingURL=backend.css.map */

@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AACE,qGAAqB;EACnB,OAAO,EAAE,KAAK;EACd,KAAK,EAAE,KAAK;AAGd,mEAAc;EACZ,aAAa,EAAE,IAAI;AAGrB,6CAAmB;EACjB,KAAK,EAAE,KAAK",
+"sources": ["backend.scss"],
+"names": [],
+"file": "backend.css"
+}
